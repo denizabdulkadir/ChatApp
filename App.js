@@ -20,12 +20,12 @@ import Chat from './screens/Chat';
 import { Provider, DefaultTheme } from 'react-native-paper';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyD32GZ-RmUZQ6aCVPYh6-aE3CKA_4jk5Pg',
+  apiKey: 'AI***********************Pg',
   authDomain: 'chat-app-5e6be.firebaseapp.com',
   projectId: 'chat-app-5e6be',
   storageBucket: 'chat-app-5e6be.appspot.com',
-  messagingSenderId: '312226921258',
-  appId: '1:312226921258:web:f1aa9efc176f26f98b7c53',
+  messagingSenderId: '*************',
+  appId: '***********************',
 };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
